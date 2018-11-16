@@ -1,2 +1,0 @@
-model_checkpoint_path: "F:\\DeepLearningHighQualityPaper\\DeepLearning\\TensorFlow notes\\temp\\cbow_movie_embeddings.ckpt"
-all_model_checkpoint_paths: "F:\\DeepLearningHighQualityPaper\\DeepLearning\\TensorFlow notes\\temp\\cbow_movie_embeddings.ckpt"
